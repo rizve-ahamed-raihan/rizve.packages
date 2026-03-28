@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.smtgamesxstorm.playermovement2d": {
+      "version": "https://github.com/smtgamesxstorm-netizen/ShamimPacakges.git?path=Packages/com.smtgamesxstorm.playermovement2d#com.smtgamesxstorm.playermovement2d",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.test-framework": "1.6.0"
+      },
+      "hash": "978765de9c159f10a99a464cfa7380738626f4ba"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
       "depth": 0,
